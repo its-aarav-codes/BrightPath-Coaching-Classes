@@ -1,5 +1,7 @@
 # BrightPath Coaching Classes – Responsive Education Landing Page
 
+Link: https://its-aarav-codes.github.io/BrightPath-Coaching-Classes/
+
 ## Overview
 BrightPath Coaching Classes is a **results-focused, single-page coaching institute website** designed for parents and students.  
 The layout emphasizes **clarity, structure, and trust**, helping visitors quickly understand courses, timings, and outcomes—without confusion or unnecessary visuals.
